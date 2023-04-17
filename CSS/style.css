@@ -22,7 +22,7 @@
     color: rgb(80, 165, 255);
 }
 #inline{
-    text-align: left;
+    margin: 0 auto;
 }
 thead{
     color: white;
@@ -31,4 +31,11 @@ thead{
 }
 .tablecells{
     background-color: rgb(164, 214, 255);
+}
+.container{
+    margin: 0 auto;
+}
+h2{
+    text-align: left;
+    color: rgb(170, 170, 170);
 }
