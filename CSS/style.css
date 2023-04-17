@@ -9,3 +9,12 @@
     width: 200px;
     margin-top: 25px;
 }
+.fontedit{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 100%;
+    color: rgb(138, 138, 138);
+}
+#blue{
+    color: rgb(80, 165, 255);
+}
