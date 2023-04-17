@@ -33,9 +33,14 @@ thead{
     background-color: rgb(164, 214, 255);
 }
 .container{
-    margin: 0 auto;
+    background-color: white;
+    max-width: 1080px;
+    margin: 30px auto;
 }
 h2{
     text-align: left;
     color: rgb(170, 170, 170);
+}
+article{
+    margin-top: 20px;
 }
