@@ -15,6 +15,20 @@
     font-size: 100%;
     color: rgb(138, 138, 138);
 }
+.yellow{
+    background-color: yellow;
+}
 #blue{
     color: rgb(80, 165, 255);
+}
+#inline{
+    text-align: left;
+}
+thead{
+    color: white;
+    background-color: rgb(66, 170, 255);
+    border: none;
+}
+.tablecells{
+    background-color: rgb(164, 214, 255);
 }
