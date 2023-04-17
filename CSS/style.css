@@ -2,9 +2,10 @@
     height: 100px;
     background-color: rgb(93, 180, 255);
     background-image: url(../img/pattern.png);
-    background-size: cover;
+    background-size: 320px;
 }
 #logo{
     height: 50px;
     width: 200px;
+    margin-top: 25px;
 }
