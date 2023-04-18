@@ -7,6 +7,10 @@ article{
 figure{
     margin: 0;
 }
+ul{
+    padding-inline-start: 0;
+    list-style-position: inside;
+}
 .inline{
     text-align: start;
   }
