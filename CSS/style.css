@@ -58,3 +58,13 @@ h2{
     text-align: left;
     color: rgb(170, 170, 170);
 }
+/*Table*/
+th{
+    text-align: left;
+}
+b{
+   width: 50px; 
+}
+table{
+    border-collapse: collapse;
+}
