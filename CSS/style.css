@@ -11,6 +11,11 @@ ul{
     padding-inline-start: 0;
     list-style-position: inside;
 }
+h3{
+    padding-left: 10px;
+    font-size: 30px;
+    color: white;
+}
 .inline{
     text-align: start;
   }
@@ -53,6 +58,8 @@ thead{
     height: 50px;
     width: 200px;
     margin-top: 25px;
+    max-width: 1080px;
+    margin: 30px auto;
 }
 h2{
     text-align: left;
@@ -62,9 +69,19 @@ h2{
 th{
     text-align: left;
 }
-b{
-   width: 50px; 
-}
 table{
     border-collapse: collapse;
+}
+.title_lorem{
+    height: 208px;
+    width: 312px;
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+    
+}
+.title_lorem2{
+    height: 208px;
+    width: 312px;
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
 }
